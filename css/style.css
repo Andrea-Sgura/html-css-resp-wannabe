@@ -150,4 +150,12 @@ img {
     .why-us .col:last-child{
         margin-bottom: 0px;
     }
+
+    .why-us{
+        background-color: rgb(52, 52, 52);
+    }
+
+    .steps{
+        margin-bottom: 0;
+    }
  }
